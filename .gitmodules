@@ -1,0 +1,9 @@
+[submodule "eeui-cli"]
+	path = eeui-cli
+	url = https://github.com/kuaifan/eeui-cli.git
+[submodule "eeui-docs"]
+	path = eeui-docs
+	url = https://github.com/kuaifan/eeui-docs.git
+[submodule "eeui-template"]
+	path = eeui-template
+	url = https://github.com/kuaifan/eeui-template.git
