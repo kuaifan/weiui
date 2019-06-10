@@ -1,12 +1,9 @@
-[submodule "eeui-cli"]
-	path = eeui-cli
-	url = https://github.com/kuaifan/eeui-cli.git
-[submodule "eeui-docs"]
-	path = eeui-docs
-	url = https://github.com/kuaifan/eeui-docs.git
-[submodule "eeui-template"]
-	path = eeui-template
-	url = https://github.com/kuaifan/eeui-template.git
-[submodule "eeui-plugins"]
-	path = eeui-plugins
-	url = https://github.com/kuaifan/eeui-plugins.git
+[submodule "weiui-cli"]
+	path = weiui-cli
+	url = https://github.com/kuaifan/weiui-cli.git
+[submodule "weiui-docs"]
+	path = weiui-docs
+	url = https://github.com/kuaifan/weiui-docs.git
+[submodule "weiui-template"]
+	path = weiui-template
+	url = https://github.com/kuaifan/weiui-template.git
